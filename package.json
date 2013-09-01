@@ -1,0 +1,19 @@
+{
+	 "name": "IRCThinger"
+	,"version": "0.0.1"
+	,"private": true
+
+	,"scripts": {
+		"start": "always app.js"
+	}
+
+	,"repository": {
+		"type": "git"
+		,"url": "https://github.com/crosma/crosma.git"
+	}
+
+	,"dependencies": {
+		"cli-color": "*"
+	}
+}
+ 
